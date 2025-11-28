@@ -6,7 +6,7 @@
 *.pem
 *.p12
 
-# Accidentally downloaded third‑party artifacts
+# Accidentally downloaded third-party artifacts
 cb=gapi*
 cb=gapi.loaded_*
 cb=gapi(1).loaded_*
