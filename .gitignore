@@ -1,0 +1,12 @@
+# Environments and secrets
+.env
+.env.*
+*.env
+*.key
+*.pem
+*.p12
+
+# Accidentally downloaded third‑party artifacts
+cb=gapi*
+cb=gapi.loaded_*
+cb=gapi(1).loaded_*
